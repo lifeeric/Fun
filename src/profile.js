@@ -13,7 +13,7 @@ export const Profile = () => {
           />
         </div>
         <div className="baby__body">
-          <h2>Hey, Afghan baby!</h2>
+          <h2>Hey,!</h2>
           <p>Just for fun, I hope you'd love it!</p>
         </div>
       </div>
